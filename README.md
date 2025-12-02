@@ -2,6 +2,8 @@
 
 Solve knapsack problem for your video life
 
+- DVD-Rにより多くのファイルを詰め込む方法を計算します
+
 ## Usage
 
 Guess you want to choose your video files
